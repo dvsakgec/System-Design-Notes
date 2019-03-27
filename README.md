@@ -23,7 +23,7 @@ Concepts:
 
 
 7. Bloom Filters
-   Are probabilistic data structure which can tell for sure that item do not belong to a set (No false negatives) and tell item belong to the given set with some certainity, if item is present in the set(false positives are present but can be minimized). It is extremelly useful as it saves a lot of memory. For introduction to subject follow following link: https://www.youtube.com/watch?v=bEmBh1HtYrw .  The basic idea is to use k hash functions to generate a position to set a bit in an array of size n. where n is always > k. 
+   Are probabilistic data structure which can tell for sure that item do not belong to a set (No false negatives) and tell item belong to the given set with some certainity, if item is present in the set(false positives are present but can be minimized). It is extremelly useful as it saves a lot of memory. For introduction to subject follow following link: https://www.youtube.com/watch?v=bEmBh1HtYrw .  The basic idea is to use k hash functions to generate a position to set a bit in an array of size n. where n is always > k. Then go for this video, this certainly makes things much clear after first video: https://www.youtube.com/watch?v=zYlxP7F3Z3c
 
 
 8. Rate Limiting (Leaky Bucket and Token Bucket algorithms), Load Shedders, 
