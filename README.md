@@ -7,11 +7,11 @@ Concepts:
 
 
 2. Distributed Transactions:
-   DTs in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
+   DTs using Sagas in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
    Idea is that first part is executed consitently and second dependent part is executed eventually. for example,  Support transfer 
    of amount from acc A to acc B. then service handling transfer will debit the amount from A and then create a message in queue for     
-   crediting to B acc which will eventually get executed.
-
+   crediting to B acc which will eventually get executed. 
+   Article on intro to both approaches: https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
 
 3. Distributed Locks
 
