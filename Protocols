@@ -1,4 +1,9 @@
-WebSockets
+WebSockets:
+
+  1. Load balancing websockets: 
+          https://stackoverflow.com/questions/12526265/loadbalancing-web-sockets
+          https://dzone.com/articles/load-balancing-of-websocket-connections
+  2. Scaling WebSockets on server side: https://hackernoon.com/scaling-websockets-9a31497af051
 
 Long Polling
 
@@ -20,3 +25,5 @@ REST
 
 
 SOAP
+
+XMPP: It is great for messaging systems. Whatsapp uses the Ejabberd (XMPP) server for smooth and reliable message delivery.
