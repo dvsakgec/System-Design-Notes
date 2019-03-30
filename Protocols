@@ -30,3 +30,8 @@ XMPP: It is great for messaging systems. Whatsapp uses the Ejabberd (XMPP) serve
 
 WebSockets vs XMPP which is better choice for messaging/chat applications: 
   https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327
+
+
+Gossip Protocol: It is used for spreading information across members of a network. It works by each member spreading information
+to it's neighbours. thus spreading information to eventually all members. This is useful in use with consistent hashing. For example,
+if one of the server goes down then information that this server is down can be spread to other servers on the ring using this strategy
