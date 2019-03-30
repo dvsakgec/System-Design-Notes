@@ -27,3 +27,6 @@ REST
 SOAP
 
 XMPP: It is great for messaging systems. Whatsapp uses the Ejabberd (XMPP) server for smooth and reliable message delivery.
+
+WebSockets vs XMPP which is better choice for messaging/chat applications: 
+  https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327
