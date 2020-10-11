@@ -12,6 +12,8 @@ Concepts:
    [Consistent Hashing with code example](http://michaelnielsen.org/blog/consistent-hashing/) 
    
    [Artile with most detailed notes on when nodes get added or removed](https://www.ably.io/blog/implementing-efficient-consistent-hashing/)
+   
+   [Consistent Hasing: Algorithimin tradeoffs, code level exlpanation](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 
 2. Distributed Transactions:
    DTs using Sagas in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
