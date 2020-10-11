@@ -43,6 +43,7 @@ Concepts:
 
 8. Rate Limiting (Leaky Bucket and Token Bucket algorithms), Load Shedders, 
    [Youtube](https://www.youtube.com/watch?v=mhUQe4BKZXs)
+   [Design Distributed Rate Limiter](https://www.ably.io/blog/distributed-rate-limiting-scale-your-platform/)
 
 9. Data Replication
 
