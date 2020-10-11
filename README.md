@@ -5,6 +5,8 @@ Concepts:
 
 1. Consistent Hashing
 
+   [Cassandra Consistent Hasing with explanation of read and write opertions with replication](https://www.datastax.com/blog/2019/02/distributed-database-things-know-consistent-hashing)
+   [Consistent Hashing explanation with advantages, high level article](https://dzone.com/articles/simple-magic-consistent)
 
 2. Distributed Transactions:
    DTs using Sagas in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
