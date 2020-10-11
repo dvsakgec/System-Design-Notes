@@ -7,6 +7,9 @@ Concepts:
 
    [Cassandra Consistent Hasing with explanation of read and write opertions with replication](https://www.datastax.com/blog/2019/02/distributed-database-things-know-consistent-hashing)
    [Consistent Hashing explanation with advantages, high level article](https://dzone.com/articles/simple-magic-consistent)
+   
+   [Consistent Hashing with code example](http://michaelnielsen.org/blog/consistent-hashing/) 
+   [Artile with most detailed notes on when nodes get added or removed](https://www.ably.io/blog/implementing-efficient-consistent-hashing/)
 
 2. Distributed Transactions:
    DTs using Sagas in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
@@ -33,7 +36,7 @@ Concepts:
 
 
 8. Rate Limiting (Leaky Bucket and Token Bucket algorithms), Load Shedders, 
-
+   [Youtube](https://www.youtube.com/watch?v=mhUQe4BKZXs)
 
 9. Data Replication
 
