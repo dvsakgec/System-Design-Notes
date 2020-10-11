@@ -6,16 +6,20 @@ Concepts:
 1. Consistent Hashing
 
    [Cassandra Consistent Hasing with explanation of read and write opertions with replication](https://www.datastax.com/blog/2019/02/distributed-database-things-know-consistent-hashing)
+   
    [Consistent Hashing explanation with advantages, high level article](https://dzone.com/articles/simple-magic-consistent)
    
    [Consistent Hashing with code example](http://michaelnielsen.org/blog/consistent-hashing/) 
+   
    [Artile with most detailed notes on when nodes get added or removed](https://www.ably.io/blog/implementing-efficient-consistent-hashing/)
 
 2. Distributed Transactions:
    DTs using Sagas in Micro-Services architecture: https://www.youtube.com/watch?v=YPbGW3Fnmbc
+   
    Idea is that first part is executed consitently and second dependent part is executed eventually. for example,  Support transfer 
    of amount from acc A to acc B. then service handling transfer will debit the amount from A and then create a message in queue for     
    crediting to B acc which will eventually get executed. 
+   
    Article on intro to both approaches: https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
 
 3. Distributed Locks
