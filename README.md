@@ -1,6 +1,6 @@
 # System-Design-Notes
 System design topics and concepts and thieir study links
-# [Most important:] (https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+# [Most important:](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
 Concepts:
 
 1. Consistent Hashing
