@@ -13,7 +13,8 @@
             iv. Pages with more hits: If search term is repeated then search engine can keep track of links which are opened more frequently for particular combination of search terms, phrases. This means that those links are more relevant as compared to others and their ranking can be improved
             v. Position of search terms in document: Like document which has search term in title, image names and more appearance has more likelyhood of being related to the searched term more as compared to documents where word/term appears less. In nutshell the frequency and location of search/term phrases in documents
             vi. Search Raters: Search Raters are the users who are paid to collect feedback on relevance of search results, specially for new keywords typed in search. Google actually does that.
-        d. 
+        d. Query Services: Query services will contexualize and cateorise the query in correct way. For example, "replace light buld", "change light buld" essentially mean the same thing. So there should be a synonym service to interprete the queries. Then to find the other aspects of query like is it question, 
+        e. Search result aggregator service: Output of abov service might just be ids of documents which should be part of result and their order but search result aggregator has to fetch those document's cached pages and find in the documents where those terms appear, their positions, and summary extraction to display on the page.
   
 
 
