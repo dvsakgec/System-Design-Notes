@@ -12,7 +12,7 @@
             iii. Freshness of Page: Latest pages should appear in results first as compared to stale or old pages
             iv. Pages with more hits: If search term is repeated then search engine can keep track of links which are opened more frequently for particular combination of search terms, phrases. This means that those links are more relevant as compared to others and their ranking can be improved
             v. Position of search terms in document: Like document which has search term in title, image names and more appearance has more likelyhood of being related to the searched term more as compared to documents where word/term appears less. In nutshell the frequency and location of search/term phrases in documents
-            vi. 
+            vi. Search Raters: Search Raters are the users who are paid to collect feedback on relevance of search results, specially for new keywords typed in search. Google actually does that.
   
 
 
@@ -24,3 +24,4 @@
 1. [google: How search works](https://www.google.com/search/howsearchworks/crawling-indexing/)
 2. [Wiki: Web-crawler](https://en.wikipedia.org/wiki/Web_crawler)
 3. [Page Ranking algorithms](https://www.google.com/search/howsearchworks/algorithms/)
+4. [Google search working in 5 mins](https://www.youtube.com/watch?v=0eKVizvYSUQ)
