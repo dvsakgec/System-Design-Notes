@@ -2,7 +2,7 @@
 
 ## Problem Statement: Design a search engine like google at scale with latency within miliseconds
 
-### Solution Summary: Entire solution has three stages:
+### Solution Summary: Entire solution has four stages:
          a. Web-crawler: scans all pages on web and stores their latest copies on servers. 
          b. Indexing services: Indexing services index the collected pages/content/snippets for keywords
          c. Page Ranking: Now we have keywords to page mapping but when we query, search results have to be sorted based on relevance. This is done by this service. 
@@ -13,6 +13,7 @@
             iv. Pages with more hits: If search term is repeated then search engine can keep track of links which are opened more frequently for particular combination of search terms, phrases. This means that those links are more relevant as compared to others and their ranking can be improved
             v. Position of search terms in document: Like document which has search term in title, image names and more appearance has more likelyhood of being related to the searched term more as compared to documents where word/term appears less. In nutshell the frequency and location of search/term phrases in documents
             vi. Search Raters: Search Raters are the users who are paid to collect feedback on relevance of search results, specially for new keywords typed in search. Google actually does that.
+        d. 
   
 
 
