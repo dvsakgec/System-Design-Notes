@@ -1,0 +1,16 @@
+# Web crawler/Google Search working/Page Rank/Indexing of huge set of documents/Hadoop/Google Big Table
+
+## Problem Statement: Design a search engine like google at scale with latency within miliseconds
+
+### Solution Summary: Entire solution has three stages:
+         a. Web-crawler: scans all pages on web and stores their latest copies on servers. 
+         b. Indexing services: Indexing services index the collected pages/content/snippets for keywords
+         c. Page Ranking: Now we have keywords to page mapping but when we query, search results have to be sorted based on relevance. This is done by this service. 
+            This service uses many parameters to determine position of pages on search results first page. Below are some parameters:
+            i. Geolocation: Search results might have different relevance based on geolocation. For example, some search terms might be more frequent in certain geographies compared to others
+            ii. Query: And or OR: if search query contains a phrase then search results containing the full phrase might be disapled first. For example, searching for code snippet or exception stack trace in search. 
+            iii. Freshness of Page: Latest pages should appear in results first as compared to stale or old pages
+            iv. Pages with more hits: If search term is repeated then search engine can keep track of links which are opened more frequently for particular combination of search terms, phrases. This means that those links are more relevant as compared to others and their ranking can be improved
+            v. Position of search terms in document: Like document which has search term in title, image names and more appearance has more likelyhood of being related to the searched term more as compared to documents where word/term appears less. In nutshell the frequency and location of search/term phrases in documents
+            vi. 
+  
