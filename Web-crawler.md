@@ -14,3 +14,13 @@
             v. Position of search terms in document: Like document which has search term in title, image names and more appearance has more likelyhood of being related to the searched term more as compared to documents where word/term appears less. In nutshell the frequency and location of search/term phrases in documents
             vi. 
   
+
+
+
+
+
+
+# Important links:
+1. [google: How search works](https://www.google.com/search/howsearchworks/crawling-indexing/)
+2. [Wiki: Web-crawler](https://en.wikipedia.org/wiki/Web_crawler)
+3. [Page Ranking algorithms](https://www.google.com/search/howsearchworks/algorithms/)
