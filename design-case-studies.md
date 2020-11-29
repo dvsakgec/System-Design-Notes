@@ -8,4 +8,9 @@
  Core challenges: Live collaboration, Storage and Access Management
  Google docs collaboration feature can be build using either OT (Operational Transformation) or DIfferential Synchronization ( CRDTs)
  OT Links:
-    1. 
+    1. [Evailauting CRDTs(Commutative Replicated Datatypes) ](https://hal.inria.fr/file/index/docid/629503/filename/doce63-ahmednacer.pdf)
+
+
+Main Ideas on realtime-collaboration:
+1. Synchronization can be state based (CRDTs and so on) or operation based (OTs and CRDTs)
+2. State based approaches are: Differential synchronization or three-way merges (as adopted by GIT or other source version control systems)
