@@ -12,5 +12,6 @@
 
 
 Main Ideas on realtime-collaboration:
-1. Synchronization can be state based (CRDTs and so on) or operation based (OTs and CRDTs)
-2. State based approaches are: Differential synchronization or three-way merges (as adopted by GIT or other source version control systems)
+1. There is a mandatory property for all types of algorithms support for ***concurrency*** and ***convergance*** to a single document 
+2. Synchronization can be state based (CRDTs and so on) or operation based (OTs and CRDTs)
+3. State based approaches are: Differential synchronization or three-way merges (as adopted by GIT or other source version control systems)
