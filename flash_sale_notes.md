@@ -12,3 +12,4 @@
   2. [How Amazon planned for flash sale](https://images-na.ssl-images-amazon.com/images/I/B2NSQ66nKkS.pdf)
   3. [good article on optimization for flash sale](https://www.akamai.com/us/en/multimedia/documents/white-paper/handling-flash-sales-devops-strategies-for-traffic-mitigation-whitepaper.pdf)
   4. **IMPT** [Hackernoon:design system for flash sale](https://hackernoon.com/developing-a-flash-sale-system-7481f6ede0a3)
+  5. [Alibaba](https://www.alibabacloud.com/help/doc-detail/63920.htm) 
