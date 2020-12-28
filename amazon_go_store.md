@@ -1,0 +1,2 @@
+***1. [https://towardsdatascience.com/how-the-amazon-go-store-works-a-deep-dive-3fde9d9939e9](https://towardsdatascience.com/how-the-amazon-go-store-works-a-deep-dive-3fde9d9939e9 )***
+***2. [https://blog.prototypr.io/examining-the-user-experience-of-amazon-go-shopping-just-walk-out-bfeda3c9ce39](https://blog.prototypr.io/examining-the-user-experience-of-amazon-go-shopping-just-walk-out-bfeda3c9ce39)
