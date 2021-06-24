@@ -32,3 +32,9 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
 [OT best explanation with example](https://hackernoon.com/operational-transformation-the-real-time-collaborative-editing-algorithm-bf8756683f66)
 
 3. [Martin Klepmann video on CRDTs](https://www.youtube.com/watch?v=B5NULPSiOGw)
+
+
+
+| col1 | col2 | col3 |
+| :---- | ---- | ----:|
+| val1
