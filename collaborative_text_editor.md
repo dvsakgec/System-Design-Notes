@@ -33,8 +33,4 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
 
 3. [Martin Klepmann video on CRDTs](https://www.youtube.com/watch?v=B5NULPSiOGw)
 
-
-
-| col1-12345678890 | col2-12345678890 | col3-12345678890 |
-| :--- | :----: | ----:|
-| val1  | val2 | val3 |
+4. [Operational Transformation good explanation](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
