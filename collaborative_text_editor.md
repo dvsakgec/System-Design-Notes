@@ -2,7 +2,7 @@
 
 Core point in CRDTs is to make sure operations are commutative (commutative means order of operations doesn't matter). If we can ensure that and come up with some smart rules for each conflict resolution then it will work. 
 
-```
+`
    Example:
    
       There are two Nodes A and B. Idea is that each letter is given an incrementable ID,  for example each node starts with word "helo"
@@ -21,7 +21,7 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
         
         
         
-```
+`
 
 
 1. [Talk Video: Simple collaborative text editor using CRDTs](https://www.youtube.com/watch?v=jIR0Ngov7vo), 
@@ -36,5 +36,5 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
 
 
 | col1-12345678890 | col2-12345678890 | col3-12345678890 |
-| :--- | ---- | ----:|
+| :--- | :----: | ----:|
 | val1  | val2 | val3 |
