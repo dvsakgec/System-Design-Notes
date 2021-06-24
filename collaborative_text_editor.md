@@ -21,7 +21,7 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
         
         
         
-        ```
+```
 
 
 1. [Talk Video: Simple collaborative text editor using CRDTs](https://www.youtube.com/watch?v=jIR0Ngov7vo), 
