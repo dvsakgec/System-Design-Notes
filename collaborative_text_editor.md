@@ -35,6 +35,6 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
 
 
 
-| col1 | col2 | col3 |
+| col1-12345678890 | col2-12345678890 | col3-12345678890 |
 | :---- | ---- | ----:|
-| val1
+| val1  | val2 | val3 |
