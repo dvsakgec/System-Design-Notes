@@ -42,8 +42,11 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
 
 2. [Video: System design with proper diagram: OT based](https://www.youtube.com/watch?v=g9VIh13SA1Y) 
 
-[OT best explanation with example](https://hackernoon.com/operational-transformation-the-real-time-collaborative-editing-algorithm-bf8756683f66)
+3. [OT best explanation with example](https://hackernoon.com/operational-transformation-the-real-time-collaborative-editing-algorithm-bf8756683f66)
 
-3. [Martin Klepmann video on CRDTs](https://www.youtube.com/watch?v=B5NULPSiOGw)
+4. [Martin Klepmann video on CRDTs](https://www.youtube.com/watch?v=B5NULPSiOGw)
 
-4. [Operational Transformation good explanation](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
+5. [Operational Transformation good explanation](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
+6. [Google docs working talk: Operational transformation in details](https://www.youtube.com/watch?v=u2_yccaHbQk)
+
+7. [Medium: Operational transformation very easy explanation](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
