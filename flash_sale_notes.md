@@ -23,4 +23,4 @@ Core problems in Flash sale design:
   3. [***CDN optimisation:*** research Paper for Flash Sales](https://www.akamai.com/us/en/multimedia/documents/white-paper/handling-flash-sales-devops-strategies-for-traffic-mitigation-whitepaper.pdf)
   4. **IMPT** [Hackernoon:design system for flash sale](https://hackernoon.com/developing-a-flash-sale-system-7481f6ede0a3)
   5. [Alibaba](https://www.alibabacloud.com/help/doc-detail/63920.htm) 
-  6. [***Video:*** Use Redis for running flash sales]
+  6. [***Video:*** Use Redis for running flash sales](https://www.youtube.com/watch?v=mka-KSHsCJo)
