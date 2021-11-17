@@ -35,7 +35,7 @@ Core point in CRDTs is to make sure operations are commutative (commutative mean
         
         
 `
-
+0. [Best link](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
 
 1. [Talk Video: Simple collaborative text editor using CRDTs](https://www.youtube.com/watch?v=jIR0Ngov7vo), 
   [Talk blog link](https://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html)
